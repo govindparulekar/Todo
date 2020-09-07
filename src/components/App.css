@@ -1,0 +1,12 @@
+.wrapper{
+    width: 500px;
+    height: 400px;
+    margin: 50px auto;
+    background-color: #f8f8f8;
+    box-shadow: 0px 0px 6px 1px rgb(133, 127, 127);
+
+}
+.list{
+    overflow-y: auto;
+    height: calc(400px - 71px - 67px);
+}
